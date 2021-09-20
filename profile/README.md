@@ -1,5 +1,6 @@
 # Destiny Development
 ![GitHub issues](https://img.shields.io/github/issues/DestinyDevelopment/bugs)
+
 Welcome to the Destiny Development organisation.
 
 
