@@ -10,7 +10,6 @@ Welcome to the Destiny Development organisation.
 ## Developers
 
 - [@1EvanDev1](https://www.github.com/1EvanDev1)
-- [@Feelenlucky](https://www.github.com/Feelenlucky)
 - [@G0UGH](https://www.github.com/G0UGH)
 - [@ItsNemesi](https://www.github.com/ItsNemesi)
 - [@J-Macky](https://www.github.com/J-Macky)
