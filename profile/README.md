@@ -14,7 +14,6 @@ Welcome to the Destiny Development organisation.
 - [@ItsNemesi](https://www.github.com/ItsNemesi)
 - [@J-Macky](https://www.github.com/J-Macky)
 - [@OfficialMarv](https://www.github.com/OfficialMarv)
-- [@Pushstartz](https://www.github.com/Pushstartz)
 - [@samhoran1](https://www.github.com/samhoran1)
 
   
